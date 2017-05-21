@@ -1,2 +1,2 @@
 # c-project
-C Project Eclipse
+C Project Eclipse is intitial coding attempt for learning C and C++
